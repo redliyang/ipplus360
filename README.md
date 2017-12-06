@@ -5,14 +5,14 @@
 ## 代码概要
 
 ```js
-Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quidem minus distinctio veritatis 
-perferendis neque repudiandae id expedita sint iusto, soluta quam officiis nobis autem 
-quasi ipsum, nesciunt voluptate vero nam officia voluptatum? Sunt dolore, assumenda,
-soluta itaque perferendis deleniti placeat nostrum, vitae nihil quia voluptatum tenetur 
+Lorem ipsum dolor sit amet consectetur， adipisicing elit. Quidem minus distinctio veritatis 
+perferendis neque repudiandae id expedita sint iusto， soluta quam officiis nobis autem 
+quasi ipsum， nesciunt voluptate vero nam officia voluptatum? Sunt dolore， assumenda，
+soluta itaque perferendis deleniti placeat nostrum， vitae nihil quia voluptatum tenetur 
 nulla minus reiciendis libero eveniet iure voluptatem repellendus quisquam. Sapiente 
-maiores rerum, eveniet nisi quas, inventore ipsam expedita perferendis sint possimus,
+maiores rerum， eveniet nisi quas， inventore ipsam expedita perferendis sint possimus，
 tempore at vitae laborum quos id enim ratione fugiat eius? Sunt hic fuga reprehenderit.
-Minima ea aliquid, hic ducimus fugiat dolorum repellat ut doloremque nulla cupiditate 
+Minima ea aliquid， hic ducimus fugiat dolorum repellat ut doloremque nulla cupiditate 
 odio illum a temporibus magni reprehenderit omnis!
 ```
 
@@ -30,7 +30,7 @@ odio illum a temporibus magni reprehenderit omnis!
 
 * IP问问-高精准
 
-IP问问-高精准从定位原理，综合服务，产品优势，应用领域和测试方法五大方面进行阐述,其中定位原理中的定位精度说明采用slider。[更多设计细节](https://github.com/redliyang/ipplus360)
+IP问问-高精准从定位原理，综合服务，产品优势，应用领域和测试方法五大方面进行阐述，其中定位原理中的定位精度说明采用slider。[更多设计细节](https://github.com/redliyang/ipplus360)
 
 * IP问问-区县级
 
@@ -77,7 +77,7 @@ JDF官方简介[点此了解更多](https://github.com/putaoshu/jdf)
 
 下面是姓氏命名法的简介，[点此了解更多](https://www.zhihu.com/question/54962942)
 
-核心，只要保证最外层模块名不重复，模块内部可以任意命名。
+**核心**：只要保证最外层模块名不重复，模块内部可以任意命名。
 
 * 简单模块：在子孙模块数量可预测的情况下，继承祖先模块的命名前缀
 
