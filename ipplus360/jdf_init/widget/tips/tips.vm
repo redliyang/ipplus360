@@ -1,4 +1,4 @@
-<div class="topBanner">
+<div class="tips">
     <div class="inner w">
         <img src="http://www.ipplus360.com/skin/aiwen_2017/images//tips.png" alt="">
         <span>新产品</span>
@@ -8,4 +8,4 @@
     </div>
     <span class="close">×</span>
 </div>
-## .topBanner>(.inner.w>img+span+img+span+a)+.close
+## .tips>(.inner.w>img+span+img+span+a)+.close
