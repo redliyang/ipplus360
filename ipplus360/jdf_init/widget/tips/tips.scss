@@ -1,10 +1,11 @@
-.topBanner {
+.tips {
     height: 62px;
     position: relative;
     background: url('http://www.ipplus360.com/skin/aiwen_2017/images/tips_bg.png');
     line-height: 62px;
 }
-.topBanner .inner {
+
+.tips .inner {
     width: 1017px;
     margin: 0 auto;
     text-align: center;
@@ -14,15 +15,16 @@
     }
     span {
         font-style: 18px;
-        font-weight: 700;   
+        font-weight: 700;
     }
     a {
-        margin-left: 75px;  
+        margin-left: 75px;
         padding: 5px 15px;
         background-color: #0195ff;
     }
 }
-.topBanner .close {
+
+.tips .close {
     position: absolute;
     right: 10px;
     top: 0;
